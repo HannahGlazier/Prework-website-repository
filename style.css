@@ -1,3 +1,35 @@
 body {
-    background: #6b654b;
+    background-image: url("/Users/hannahglazier/Development/code/prework/Final Prework Project/prework-website-repository/Images/absract-green-yellow-vertical-lines.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    color: azure;
+}
+
+
+
+
+
+
+
+
+
+#footer {
+    position:fixed;
+    bottom:10px;
+    height:75px;
+    left: 0;
+    width:100%;
+    border-style: solid;
+    background-color: white;
+    opacity:50%;
+}
+
+.footer-content {
+    margin: 0 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
 }
